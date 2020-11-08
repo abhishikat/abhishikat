@@ -35,11 +35,6 @@ Here are some ideas to get you started:
 **💬 My inbox is always open, Contact me**
 <br>
 <br> 
-  <a href="https://in.linkedin.com/in/piyushp7pravin">
-   <img align="left" alt="Abhishikat Kumar Soni | Linkedin" width="24px" src="https://in.linkedin.com/in/abhishikat-kumar-soni-4b3326199" />
-  </a
-<br>
-<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishikat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
