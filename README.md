@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👨🏽‍💻 I’m currently working on building awesome applications for mobiles and tablets (both iOS and Android);
 - 🌱 I’m currently learning to write clean and bug free code;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Swift and Kotlin are ❣️
+- ⚡️ Fun-Fact: Fortune cookies are made in America not in China 😂
 - 📫 How to reach me: abhishikatsoni@gmail.com;
 <a href="https://www.linkedin.com/in/abhishikat-kumar-soni-4b3326199/">
   <img align="left" alt="Abhishikat's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/twitter.svg" />
