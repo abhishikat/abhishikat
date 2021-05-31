@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-**🔭 I’m currently working on my <a href="https://github.com/abhishikat"><b>Portfolio Website</b> </a> and Coding room project**<br>
+**🔭 I’m currently working on my <a href="https://abhishikat.github.io/#"><b>Portfolio Website</b> </a> and Coding room project**<br>
 **🌱 I’m currently learning Google cloud and Deep Learning**
 
 - 👨🏽‍💻 I’m currently working on building awesome applications for mobiles and tablets (both iOS and Android);
